@@ -1,0 +1,58 @@
+# Panduan Kontribusi
+
+Terima kasih telah tertarik untuk berkontribusi pada proyek **Toko Hijab**! Kami menghargai semua jenis kontribusi, mulai dari pelaporan bug, perbaikan kode, hingga penambahan fitur baru.
+
+## Cara Berkontribusi
+
+1. **Fork Repository**
+   - Klik tombol "Fork" di halaman repository ini untuk membuat salinan proyek ke akun GitHub Anda.
+
+2. **Clone Repository**
+   - Clone repository hasil fork ke lokal Anda:
+     ```bash
+     git clone https://github.com/username/toko-hijab.git
+     cd toko-hijab
+     ```
+
+3. **Buat Branch Baru**
+   - Gunakan nama branch yang deskriptif:
+     ```bash
+     git checkout -b feature-nama-fitur
+     ```
+
+4. **Lakukan Perubahan dan Commit**
+   - Pastikan kode Anda mengikuti standar yang berlaku.
+   - Commit perubahan dengan pesan yang jelas:
+     ```bash
+     git commit -m "Menambahkan fitur X"
+     ```
+
+5. **Push ke Repository Fork Anda**
+   ```bash
+   git push origin feature-nama-fitur
+   ```
+
+6. **Buat Pull Request (PR)**
+   - Buka repository utama proyek ini.
+   - Klik tombol "New Pull Request".
+   - Pilih branch yang sesuai, lalu ajukan PR dengan deskripsi yang jelas.
+
+## Panduan Coding
+- Gunakan standar coding yang konsisten dengan Laravel dan PHP.
+- Pastikan kode telah diuji sebelum mengajukan PR.
+- Ikuti struktur folder dan penamaan yang sudah ada di proyek ini.
+
+## Pelaporan Bug atau Masalah
+Jika menemukan bug atau masalah, silakan:
+- Buka "Issues" di repository ini.
+- Gunakan format berikut:
+  - **Deskripsi Masalah**
+  - **Langkah Reproduksi**
+  - **Lingkungan (versi PHP, database, dll.)**
+  - **Screenshot (jika ada)**
+
+## Hubungi Kami
+Jika ada pertanyaan atau butuh bantuan, silakan buka issue atau hubungi kami melalui email.
+
+Terima kasih telah berkontribusi pada **Toko Hijab**! 🎉
+
